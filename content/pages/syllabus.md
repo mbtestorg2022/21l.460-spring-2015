@@ -29,14 +29,75 @@ Assignments and Grading
 
 You will be given a range of assignments in this course, including a short paper, two longer papers, and an oral presentation on a topic that interests you. There will be regular quizzes to help you stay on top of the readings and the challenges of Middle English. I will also ask you to participate in an online forum in which we record our personal responses to the texts we read, questions for class discussion, ideas for future writing, etc. While these entries will not receive a letter grade, they are designed to lay useful groundwork for your two major papers and are an important part of your class participation.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Paper 1 | 10% |
-| Paper 2 (10% draft, 15% revision) | 25% |
-| Paper 3 | 30% |
-| Reading quizzes | 15% |
-| Presentation | 10% |
-| MIT online forum / Class participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2 (10% draft, 15% revision)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MIT online forum / Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Attendance and Participation
 ----------------------------
